@@ -11,3 +11,4 @@
 
     <a href="/blog">Back to Post</a>
 @endsection
+
